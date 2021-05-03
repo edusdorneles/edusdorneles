@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Eduardo Dorneles!
 
-- 🎯 Estou sempre em busca de novos conhecimentos, recentemente, iniciei os estudos do React.js, para poder ter a base e entrar no mundo do desenvolvimento Mobile com o React Native!
+- 🎯 Estou sempre em busca de novos conhecimentos, recentemente, iniciei os estudos do React JS, para poder ter a base e entrar no mundo do desenvolvimento Mobile com o React Native!
 
 - 💻 Linguagens:
 1. Para front-end, eu utilizo HTML, CSS e Javascript.
