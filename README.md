@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo! :D
+# Olá, eu sou Eduardo! :D
 Sou desenvolvedor { front-end e back-end } web!
 
 ### - Objetivo 🎯:
