@@ -8,8 +8,3 @@ Sou desenvolvedor { front-end e back-end } web!
 1. Para front-end, eu utilizo HTML, CSS e Javascript.
 2. Para back-end, eu utilizo PHP.
 3. Os frameworks que eu utilizo são: Bootstrap e jQuery.
-
-
-### - Cursos 🎓:
-1. Inglês avançado.
-2. Técnico de informática para internet.
