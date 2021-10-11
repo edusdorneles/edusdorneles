@@ -1,10 +1,6 @@
 # Olá, eu sou Eduardo! :D
-Sou desenvolvedor { full-stack } web!
+Sou desenvolvedor { front-end } web/mobile!
 
-### - Objetivo 🎯:
-1. Estou sempre em busca de novos conhecimentos, atualmente estou estudando React!
-2. Já possuo alguns projetos pessoais utilizando React, para aperfeiçoamento na lib.
-
-### - Linguagens 💻:
-1. Para front-end, utilizo o JavaScript (React). 
-2. Para back-end, utilizo o PHP.
+### - Sobre mim: 📚
+- Estou sempre em busca de novos conhecimentos. Estudo programação web desde 2018, desde então, venho criando projetos pessoais, nos quais acabo pondo em prática todos os conhecimentos que adquiro.
+- Atualmente estou estudando React e React Native, ambas, bilbiotecas JavaScript! Já possuo experiências utilizando as bibliotecas.
