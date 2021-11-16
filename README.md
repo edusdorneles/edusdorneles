@@ -8,7 +8,7 @@ Sou desenvolvedor { front-end } web/mobile!
 <br/>
 
 ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
-![CSS Badge](https://img.shields.io/badge/-CSS-blue)
+![CSS Badge](https://img.shields.io/badge/-CSS-purple)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
 ![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
-![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
