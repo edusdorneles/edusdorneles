@@ -8,7 +8,7 @@ Sou desenvolvedor { front-end } web/mobile!
 <br/>
 
 <p aling="left">
- <img src="https://github-readme-stats.vercel.app/api?username=dududornelees&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=radical&locale=pt-br" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dududornelees&hide=contribs,issues&count_private=true&show_icons=true&theme=radical&locale=pt-br" />
 </p>
 
 <br/>
