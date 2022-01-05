@@ -1,9 +1,9 @@
 # Olá, eu sou Eduardo! :D
-Sou desenvolvedor { front-end } web/mobile!
+Sou desenvolvedor { front-end } web!
 
 ### - Sobre mim: 📚
-- Estou sempre em busca de novos conhecimentos. Estudo programação web desde 2018, desde então, venho criando projetos pessoais, nos quais acabo pondo em prática todos os conhecimentos que adquiro.
-- Atualmente estou estudando React com TypeScript! Já possuo experiências pessoais e profissionais.
+- Estou sempre em busca de novos conhecimentos. Estudo programação web desde 2021, desde então, venho criando projetos pessoais, nos quais acabo pondo em prática todos os conhecimentos que adquiro.
+- Atualmente, estou focado em desenvolvimento utilizando JavaScript, TypeScript, ReactJS, Styled-Components, dentre outras tecnologias que utilizo para criar aplicações web!
 
 <br/>
 
