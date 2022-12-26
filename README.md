@@ -1,4 +1,4 @@
-# Olá, eu sou Eduardo! :D
+# Olá, eu sou Eduardo! 🚀
 Sou desenvolvedor { front-end } web!
 
 ### - Sobre mim: 📚
