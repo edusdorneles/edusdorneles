@@ -2,8 +2,8 @@
 Sou desenvolvedor { front-end } web!
 
 ### - Sobre mim: 📚
-- Estou sempre em busca de novos conhecimentos. Estudo programação web desde 2020, desde então, venho criando projetos pessoais e profissionais, nos quais acabo pondo em prática todos os conhecimentos que adquiro.
-- Atualmente, estou trabalhando com foco em desenvolvimento utilizando JavaScript, TypeScript, ReactJS, Styled-Components, dentre outras tecnologias que utilizo para criar aplicações web! Desenvolvo sempre pensando na experiência do usuário, focando na responsividade dos websites.
+- Trabalho com desenvolvimento web desde 2020, criando projetos pessoais e profissionais, nos quais impactam mais de 2 milhões de clientes diariamente. Desenvolvo sempre pensando na experiência do usuário, focando na responsividade dos projetos.
+- Atualmente, estou trabalhando com foco em desenvolvimento utilizando JavaScript, TypeScript, React, Next.js, dentre outras tecnologias que utilizo para criar aplicações web.
 
 <br/>
 
