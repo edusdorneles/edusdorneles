@@ -2,13 +2,12 @@
 Sou desenvolvedor { front-end } web!
 
 ### - Sobre mim: 📚
-- Trabalho com desenvolvimento web desde 2020, criando projetos pessoais e profissionais, nos quais impactam mais de 2 milhões de clientes diariamente. Desenvolvo sempre pensando na experiência do usuário, focando na responsividade dos projetos.
-- Atualmente, estou trabalhando com foco em desenvolvimento utilizando JavaScript, TypeScript, React, Next.js, dentre outras tecnologias que utilizo para criar aplicações web.
+- Trabalho com desenvolvimento há mais de 4 anos, trabalhei em projetos, nos quais impactam mais de 2 milhões de clientes diariamente. Sempre desenvolvo pensando na experiência do usuário. Minha especialidade inclui: React, TypeScript, JavaScript, Sass e Next.js.
 
 <br/>
 
 <p aling="left">
- <img src="https://github-readme-stats.vercel.app/api?username=dududornelees&hide=contribs,issues&count_private=true&show_icons=true&theme=radical&locale=pt-br" />
+ <img src="https://github-readme-stats.vercel.app/api?username=edusdorneles&hide=contribs,issues&count_private=true&show_icons=true&theme=radical&locale=pt-br" />
 </p>
 
 <br/>
