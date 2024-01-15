@@ -1,5 +1,5 @@
 # Olá, eu sou Eduardo! 🚀
-Sou desenvolvedor { front-end } web!
+Sou desenvolvedor sênior { front-end } web!
 
 ### Sobre mim 📚
 Trabalho com desenvolvimento há mais de 4 anos, trabalhei em projetos, nos quais impactam mais de 2 milhões de clientes. Sempre desenvolvo pensando na experiência do usuário. Minha especialidade inclui: React, TypeScript, JavaScript, Sass e Next.js.
