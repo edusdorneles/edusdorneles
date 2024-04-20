@@ -2,7 +2,7 @@
 Sou desenvolvedor sênior { front-end } web!
 
 ### Sobre mim 📚
-Trabalho com desenvolvimento há mais de 4 anos, trabalhei em projetos, nos quais impactam mais de 2 milhões de clientes. Sempre desenvolvo pensando na experiência do usuário. Minha especialidade inclui: React, TypeScript, JavaScript, Sass e Next.js.
+Com mais de cinco anos de experiência em desenvolvimento, contribuí para projetos que impactam diariamente mais de dois milhões de clientes. Tenho um compromisso constante com a experiência do usuário em cada desenvolvimento. Minha especialização abrange tecnologias como React, React Native, Angular, TypeScript e JavaScript, entre outras, as quais utilizo para criar soluções inovadoras.
 
 <br/>
 
@@ -12,6 +12,7 @@ Trabalho com desenvolvimento há mais de 4 anos, trabalhei em projetos, nos quai
 ![JavaScript Badge](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000)
 ![TypeScript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
 ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![React Native Badge](https://img.shields.io/badge/-React_Native-4dabc4?logo=react&logoColor=white)
 ![NextJS Badge](https://img.shields.io/badge/Next-ffffff?logo=nextdotjs&logoColor=black)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
