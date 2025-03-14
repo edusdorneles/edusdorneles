@@ -1,8 +1,8 @@
 # Olá, eu sou Eduardo! 🚀
-Sou um { Software Engineer } apaixonado por tecnologia e pela construção de soluções inovadoras!
+Software Engineer com mais de cinco anos de experiência em desenvolvimento, contribuí para projetos que impactam diariamente mais de dois milhões de clientes.
 
 ### Sobre mim 📚
-Com mais de cinco anos de experiência em desenvolvimento de software, contribuí para projetos que impactam diariamente mais de dois milhões de clientes. Tenho um compromisso constante com a experiência do usuário em cada desenvolvimento. Minha especialização abrange tecnologias como React, React Native, Angular, Node.js, NestJS e TypeScript, entre outras, as quais utilizo para criar soluções inovadoras.
+Minha especialização abrange tecnologias como React, React Native, Angular, Node.js, NestJS e TypeScript, aliadas a práticas como arquitetura limpa, padrões de design e testes automatizados (Jest, Vitest, Playwright). Atualmente, atuo como Tech Lead na Teddy Open Finance, liderando uma equipe no desenvolvimento de soluções para o Back-Office.
 
 <br/>
 
