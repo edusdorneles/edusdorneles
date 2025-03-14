@@ -8,6 +8,6 @@ Atualmente, atuo como Tech Lead na Teddy Open Finance, liderando uma equipe no d
 
 ### Tecnologias 💻
 <img src="https://skillicons.dev/icons?i=js,ts,jest,vitest" />
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,next,angular,tailwind" />
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,rabbitmq,sqs" />
-<img src="https://skillicons.dev/icons?i=docker,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,webpack,next,angular,tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,rabbitmq,prisma" />
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws" />
